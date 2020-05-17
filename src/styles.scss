@@ -1,0 +1,46 @@
+@import "~bootstrap/dist/css/bootstrap.min.css";
+@import "assets/styles/argon-design-system.min.scss";
+@import "assets/styles/animate.css";
+@import "assets/styles/fontawesome/css/all.min.css";
+
+$primary-color: #212529;
+$secondary-color: #e5f2ff;
+$third-timeline-color: #3a9dff;
+$fouth-color: #184a7b;
+
+body {
+  background-color: $primary-color;
+}
+
+.bg-dark {
+  background-color: $primary-color;
+}
+
+.bg-secondary {
+  background-color: $fouth-color !important;
+  .card-link {
+    color: white !important;
+  }
+}
+
+.bg-white {
+  background-color: white;
+  color: $primary-color !important;
+}
+
+.bg-light {
+  background-color: #ddeeff !important;
+  color: $primary-color !important;
+}
+
+.fill-secondary {
+  fill: $primary-color;
+}
+
+.borderless {
+  border: none !important;
+}
+
+.card-profile-image img {
+  border: 3px solid $third-timeline-color;
+}
