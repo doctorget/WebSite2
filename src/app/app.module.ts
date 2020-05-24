@@ -10,6 +10,7 @@ import { TimelineComponent } from './components/timeline/timeline.component';
 import { DividerHeaderComponent } from './shared/components/divider-header/divider-header.component';
 import { SkillsComponent } from './shared/components/skills/skills.component';
 import { GalleryComponent } from './shared/components/gallery/gallery.component';
+import { SwipeCertifiedComponent } from './swipe-certified/swipe-certified.component';
 
 @NgModule({
   declarations: [
@@ -17,7 +18,8 @@ import { GalleryComponent } from './shared/components/gallery/gallery.component'
     TimelineComponent,
     DividerHeaderComponent,
     SkillsComponent,
-    GalleryComponent
+    GalleryComponent,
+    SwipeCertifiedComponent
   ],
   imports: [
     BrowserModule,

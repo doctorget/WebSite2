@@ -1,4 +1,4 @@
-<ngx-spinner bdColor="#212529" [fullScreen]="true" template="<img src='assets/imgs/velrino-white.png' height='150' class='animated infinite pulse'/>"></ngx-spinner>
+<ngx-spinner bdColor="#212529" [fullScreen]="true" template="<img src='assets/imgs/leão.png' height='150' class='animated infinite pulse'/>"></ngx-spinner>
 <div class="profile-page">
   <div class="wrapper">
     <section class="section-profile-cover section-shaped my-0">
@@ -44,12 +44,12 @@
                 data-original-title="Like us">
                 <span class="btn-inner--icon"><i class="fab fa-hackerrank fa-stack-1x "></i></span>
               </a>
-                <a target="_blank" href="https://instagram.com/soarezsamuel" rel="nofollow"
+                <a target="_blank" href="https://instagram.com/soarezsamuell" rel="nofollow"
                   class="btn btn-icon-only btn-instagram rounded-circle" data-toggle="tooltip"
                   data-original-title="Follow us">
                   <span class="btn-inner--icon"><i class="fab fa-instagram"></i></span>
                 </a>
-                <a target="_blank" href="https://www.linkedin.com/in/soaressamuel/" rel="nofollow"
+                <a target="_blank" href="https://www.linkedin.com/in/samuelssoares/" rel="nofollow"
                   class="btn btn-icon-only btn-facebook rounded-circle" data-toggle="tooltip"
                   data-original-title="Follow us">
                   <span class="btn-inner--icon"><i class="fab fa-linkedin-in"></i></span>
@@ -72,6 +72,7 @@
                     <skills *ngIf="checkItemType(item, 'skill')" [data]="item.data"></skills>
                     <timeline *ngIf="checkItemType(item, 'timeline')" [data]="item.data"></timeline>
                     <gallery *ngIf="checkItemType(item, 'galery')" [data]="item.data"></gallery>
+                    <swipe-certified *ngIf="checkItemType(item, 'swipe-certified')" [data]="item.data"></swipe-certified>
                   </div>
                 </div>
               </div>
@@ -83,7 +84,7 @@
   </div>
 </div>
 <div class="text-center mt-5 mb-5">
-  <a href="https://github.com/doctorget/WebSitet2" target="_blank">This Angular code</a>
+  <a href="https://github.com/doctorget/WebSite2" target="_blank">This Angular code</a>
   <span class="ml-3 mr-3">|</span>
   <a href="https://github.com/doctorget/doctorget.github.io" target="_blank">This dist code</a>
 </div>

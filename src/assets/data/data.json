@@ -307,10 +307,27 @@
                ]
         },
         {
-            "type": "galery",
+            "type": "swipe-certified",
             "icon": "fab fa-slideshare fa-2x animated infinite pulse",
             "name": "Certifieds",
-            "data": []
+            "data": [
+                {
+                    "img": "/assets/imgs/certificates/ds-cap.png",
+                    "title": "Data Science Applied Capstone"
+                },
+                {
+                    "img": "/assets/imgs/certificates/ds-da.png",
+                    "title": "Data Science Applied Capstone"
+                },
+                {
+                    "img": "/assets/imgs/certificates/data_science_cert.jpg",
+                    "title": "Formação Cientista de dados com Python e R"
+                },
+                {
+                    "img": "/assets/imgs/certificates/ds-dv.png",
+                    "title": "Formação Cientista de dados com Python e R"
+                }
+            ]
         }
     ]
 }
