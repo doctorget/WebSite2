@@ -6,12 +6,13 @@
                 <div class="swiper-container">
                     <div class="swiper-wrapper">
 
-                        <div *ngFor="let item of data; let i = index" class="swiper-slide">
+                        <div *ngFor="let item of data" class="swiper-slide">
                             <div class="swiper-zoom-container">
                                 <img src="{{ item.img }}">
+                                <span class="curso-nome">{{ item.title }}</span>
                             </div>
-
                         </div>
+
                     </div>
                     <div class="swiper-pagination"></div>
                 </div>
@@ -20,11 +21,9 @@
             <div class="product-photos-side">
                 <div class="swiper-container">
                     <div class="swiper-wrapper">
-                        <div class="swiper-slide">
-                            <div *ngFor="let item of data; let i = index" class="swiper-zoom-container">
-                                <div class="swiper-zoom-container">
-                                    <img src="{{ item.img }}">
-                                </div>
+                        <div *ngFor="let item of data" class="swiper-slide">
+                            <div class="swiper-zoom-container">
+                                <img src="{{ item.img }}">
                             </div>
                         </div>
                     </div>
