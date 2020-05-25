@@ -232,7 +232,7 @@
         {
             "type": "galery",
             "icon": "fas fa-lightbulb fa-2x animated infinite pulse",
-            "name": "projects",
+            "name": "My Projects",
             "data": [
                 {
                     "title": "Challenge-Neural-Networks-Capgemini",
@@ -358,6 +358,26 @@
                 {
                     "img": "/assets/imgs/certificates/ds-in.png",
                     "title": "What is Data Science"
+                },
+                {
+                    "img": "/assets/imgs/certificates/9.png",
+                    "title": "GIT e GITHUB"
+                },
+                {
+                    "img": "/assets/imgs/certificates/2.jpeg",
+                    "title": "SQL Completo"
+                },
+                {
+                    "img": "/assets/imgs/certificates/4.jpg",
+                    "title": "Liderança"
+                },
+                {
+                    "img": "/assets/imgs/certificates/5.png",
+                    "title": "Ecossistema de BI no Azure"
+                },
+                {
+                    "img": "/assets/imgs/certificates/3.jpeg",
+                    "title": "Python Fundamentos"
                 }
             ]
         }
