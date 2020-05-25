@@ -94,7 +94,6 @@
                             "name": "Django",
                             "value": 60
                         },
-                        
                         {
                             "name": "Microservices",
                             "value": 65
@@ -144,7 +143,6 @@
                             "name": "PySpark",
                             "value": 50
                         },
-                        
                         {
                             "name": "Statistics",
                             "value": 75
@@ -155,7 +153,7 @@
                         },
                         {
                             "name": "Data Treatment",
-                            "value":80
+                            "value": 80
                         }
                     ]
                 },
@@ -205,7 +203,7 @@
                     "itens": [
                         {
                             "name": "Python",
-                            "value":95
+                            "value": 95
                         },
                         {
                             "name": "R",
@@ -219,7 +217,6 @@
                             "name": "Javascript",
                             "value": 70
                         },
-                        
                         {
                             "name": "PHP",
                             "value": 65
@@ -240,71 +237,70 @@
                 {
                     "title": "Challenge-Neural-Networks-Capgemini",
                     "description": "this repository contains the code used to develop the CNN image recognition challenge",
-                    "link":"https://github.com/doctorget/Challenge-Neural-Networks-Capgemini",
-                    "star":"https://github.com/doctorget/Challenge-Neural-Networks-Capgemini/stargazers",
+                    "link": "https://github.com/doctorget/Challenge-Neural-Networks-Capgemini",
+                    "star": "https://github.com/doctorget/Challenge-Neural-Networks-Capgemini/stargazers",
                     "fork": "https://github.com/doctorget/Challenge-Neural-Networks-Capgemini/network/members",
-                    "tecnology":"Jupyter Notebook",
-                    "style":"background-color: #DA5B0B;",
-                    "numberStar":0,
-                    "numberFork":0
+                    "tecnology": "Jupyter Notebook",
+                    "style": "background-color: #DA5B0B;",
+                    "numberStar": 0,
+                    "numberFork": 0
                 },
                 {
                     "title": "deploy-model-web",
                     "description": "Web application with the Tensorflow model for recognizing manuscrits numbers",
-                    "link":"https://github.com/doctorget/deploy-model-web",
-                    "star":"https://github.com/doctorget/deploy-model-web/stargazers",
+                    "link": "https://github.com/doctorget/deploy-model-web",
+                    "star": "https://github.com/doctorget/deploy-model-web/stargazers",
                     "fork": "https://github.com/doctorget/deploy-model-web/network/members",
-                    "tecnology":"Jupyter Notebook",
-                    "style":"background-color: #DA5B0B;",
-                    "numberStar":0,
-                    "numberFork":0
+                    "tecnology": "Jupyter Notebook",
+                    "style": "background-color: #DA5B0B;",
+                    "numberStar": 0,
+                    "numberFork": 0
                 },
                 {
                     "title": "Python-Study-DataScience-IA",
                     "description": "My data science and AI studies",
-                    "link":"https://github.com/doctorget/Python-Study-DataScience-IA",
-                    "star":"https://github.com/doctorget/Python-Study-DataScience-IA/stargazers",
+                    "link": "https://github.com/doctorget/Python-Study-DataScience-IA",
+                    "star": "https://github.com/doctorget/Python-Study-DataScience-IA/stargazers",
                     "fork": "https://github.com/doctorget/Python-Study-DataScience-IA/network/members",
-                    "tecnology":"Jupyter Notebook",
-                    "style":"background-color: #DA5B0B;",
-                    "numberStar":1,
-                    "numberFork":1
+                    "tecnology": "Jupyter Notebook",
+                    "style": "background-color: #DA5B0B;",
+                    "numberStar": 1,
+                    "numberFork": 1
                 },
                 {
                     "title": "Predict-Future-Sales",
                     "description": "Machine Learning applied to sales forecast",
-                    "link":"https://github.com/doctorget/Predict-Future-Sales",
-                    "star":"https://github.com/doctorget/Predict-Future-Sales/stargazers",
+                    "link": "https://github.com/doctorget/Predict-Future-Sales",
+                    "star": "https://github.com/doctorget/Predict-Future-Sales/stargazers",
                     "fork": "https://github.com/doctorget/Predict-Future-Sales/network/members",
-                    "tecnology":"Jupyter Notebook",
-                    "style":"background-color: #DA5B0B;",
-                    "numberStar":0,
-                    "numberFork":0
+                    "tecnology": "Jupyter Notebook",
+                    "style": "background-color: #DA5B0B;",
+                    "numberStar": 0,
+                    "numberFork": 0
                 },
                 {
                     "title": "Republica Palmares",
                     "description": "🖥️ Sistema de cadastro e consulta de alunos, voluntários e doadores da Republica Cultural de Palmares 🔍",
-                    "link":"https://github.com/doctorget/RepublicaPalmares",
-                    "star":"https://github.com/doctorget/RepublicaPalmares/stargazers",
+                    "link": "https://github.com/doctorget/RepublicaPalmares",
+                    "star": "https://github.com/doctorget/RepublicaPalmares/stargazers",
                     "fork": "https://github.com/doctorget/RepublicaPalmares/network/members",
-                    "tecnology":"PHP",
-                    "style":"background-color:#4F5D95",
-                    "numberStar":0,
-                    "numberFork":0
+                    "tecnology": "PHP",
+                    "style": "background-color:#4F5D95",
+                    "numberStar": 0,
+                    "numberFork": 0
                 },
                 {
                     "title": "LMS-Project",
                     "description": "🏫 Projeto Learning Management System - Educational Website 🖥️",
-                    "link":"https://github.com/doctorget/LMS-Project",
-                    "star":"https://github.com/doctorget/LMS-Project/stargazers",
+                    "link": "https://github.com/doctorget/LMS-Project",
+                    "star": "https://github.com/doctorget/LMS-Project/stargazers",
                     "fork": "https://github.com/doctorget/LMS-Project/network/members",
-                    "tecnology":"Python",
-                    "style":"background-color: #3572A5;",
-                    "numberStar":0,
-                    "numberFork":0
+                    "tecnology": "Python",
+                    "style": "background-color: #3572A5;",
+                    "numberStar": 0,
+                    "numberFork": 0
                 }
-                
-               ]
+            ]
         },
         {
             "type": "swipe-certified",
@@ -312,20 +308,56 @@
             "name": "Certifieds",
             "data": [
                 {
+                    "img": "/assets/imgs/certificates/ml-gc.png",
+                    "title": "How Google Does Machine Learning "
+                },
+                {
+                    "img": "/assets/imgs/certificates/IBMSPEC.png",
+                    "title": "IBM Data Science Specialization"
+                },
+                {
                     "img": "/assets/imgs/certificates/ds-cap.png",
                     "title": "Data Science Applied Capstone"
                 },
                 {
+                    "img": "/assets/imgs/certificates/ds-ml.png",
+                    "title": "Machine Learning with Python"
+                },
+                {
+                    "img": "/assets/imgs/certificates/ds-dv.png",
+                    "title": "Data Vizualization with Python"
+                },
+                {
                     "img": "/assets/imgs/certificates/ds-da.png",
-                    "title": "Data Science Applied Capstone"
+                    "title": "Data Analysis with Python "
+                },
+                {
+                    "img": "/assets/imgs/certificates/ds-mt.png",
+                    "title": "Data Science Methodology"
+                },
+                {
+                    "img": "/assets/imgs/certificates/ds-pai.png",
+                    "title": "Python for Data Science and AI "
+                },
+                {
+                    "img": "/assets/imgs/certificates/ds-sql.png",
+                    "title": "Database and SQL for Data Science "
+                },
+                {
+                    "img": "/assets/imgs/certificates/ds-top.png",
+                    "title": "Tools for Data Science"
+                },
+                {
+                    "img": "/assets/imgs/certificates/IA-cert.jpg",
+                    "title": "IA Buscas em Texto com Python"
                 },
                 {
                     "img": "/assets/imgs/certificates/data_science_cert.jpg",
                     "title": "Formação Cientista de dados com Python e R"
                 },
                 {
-                    "img": "/assets/imgs/certificates/ds-dv.png",
-                    "title": "Formação Cientista de dados com Python e R"
+                    "img": "/assets/imgs/certificates/ds-in.png",
+                    "title": "What is Data Science"
                 }
             ]
         }
