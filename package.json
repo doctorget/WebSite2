@@ -9,7 +9,7 @@
     "lint": "ng lint",
     "e2e": "ng e2e",
     "deploy": "ng build --prod && npm run upload",
-    "upload": "npx ngh --repo=git@github.com:velrino/velrino.github.io.git --name=velrino --email=denismagalhaesvelrino@gmail.com  --branch=master --dir=dist/"
+    "upload": "npx ngh --repo=git@github.com:doctorget/doctorget.github.io.git --name=doctorget --email=samuelsoares177778@gmail.com  --branch=master --dir=dist/"
   },
   "private": true,
   "dependencies": {
@@ -23,6 +23,7 @@
     "@angular/router": "~9.1.0",
     "bootstrap": "^4.4.1",
     "ngx-spinner": "^9.0.2",
+    "ngx-typed-js": "^2.0.0",
     "rxjs": "~6.5.4",
     "swiper": "^5.4.1",
     "tslib": "^1.10.0",
