@@ -9,7 +9,7 @@
     "lint": "ng lint",
     "e2e": "ng e2e",
     "deploy": "ng build --prod && npm run upload",
-    "upload": "npx ngh --repo=git@github.com:doctorget/doctorget.github.io.git --name=doctorget --email=samuelsoares177778@gmail.com  --branch=master --dir=dist/"
+    "upload": "npx ngh --repo=git@github.com:doctorget/doctorget.github.io.git --name=doctorget --email=samuelsoares177778@gmail.com  --branch=master --dir=docs/"
   },
   "private": true,
   "dependencies": {
