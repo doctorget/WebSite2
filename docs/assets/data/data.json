@@ -1,5 +1,5 @@
 {
-  "text": "Good artists copy . <br> great artists steal.",
+  "text": "Solve Problems and Be Happy . <br> 'Samuel Soares'",
   "location": {
     "country": "Brasil",
     "state": "São Paulo"
@@ -7,7 +7,7 @@
   "knowledges": [
     {
       "type": "timeline",
-      "icon": "fab fa-github fa-2x animated infinite pulse",
+      "icon": "fas fa-rocket fa-2x animated infinite pulse",
       "name": "experiences",
       "data": [
         {
@@ -63,7 +63,7 @@
       "name": "Tech skills",
       "data": [
         {
-          "title": "Software Enginering",
+          "title": "Software Development",
           "itens": [
             {
               "name": "Flask",

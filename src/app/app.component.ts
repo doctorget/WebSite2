@@ -33,7 +33,7 @@ export class AppComponent implements OnInit {
   calculateYearOld() {
     const dates: any = {
       born: new Date(),
-      today: new Date('6/10/2000'),
+      today: new Date('8/21/2000'),
     }
     const daysInYear = 365;
 
