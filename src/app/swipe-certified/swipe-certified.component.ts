@@ -1,4 +1,5 @@
 import { Component, OnInit, Input } from '@angular/core';
+import { SwiperConfigInterface } from 'ngx-swiper-wrapper';
 
 @Component({
   selector: 'swipe-certified',
@@ -8,10 +9,14 @@ import { Component, OnInit, Input } from '@angular/core';
 export class SwipeCertifiedComponent implements OnInit {
 
   @Input('data') data: any;
-
+  configCustom:SwiperConfigInterface
   constructor() { }
 
   ngOnInit(): void {
+    this.configCustom ={
+      direction:'horizontal',
+      navigation:false
+    }
   }
 
 }

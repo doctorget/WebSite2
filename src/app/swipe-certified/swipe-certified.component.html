@@ -16,14 +16,14 @@
           </div>
 
           <div class="swiper-pagination"></div>
-
+          <div class="swiper-scrollbar"></div>
           <div class="swiper-button-prev"></div>
           <div class="swiper-button-next"></div>
         </div>
       </div>
 
       <div class="product-photos-side">
-        <div class="swiper-container" [swiper]="" [(index)]="index">
+        <div class="swiper-container" [swiper]="configCustom" [disabled]="false" [(index)]="index">
           <div class="swiper-wrapper">
             <div *ngFor="let item of data" class="swiper-slide">
               <div class="swiper-zoom-container">
