@@ -303,7 +303,7 @@
     },
     {
       "type": "swipe-certified",
-      "icon": "fab fa-slideshare fa-2x animated infinite pulse",
+      "icon": "fas fa-brain fa-2x animated infinite pulse",
       "name": "Certifieds",
       "data": [
         {
