@@ -9,7 +9,13 @@
     "lint": "ng lint",
     "e2e": "ng e2e",
     "deploy": "ng build --prod && npm run upload",
-    "upload": "npx ngh --repo=git@github.com:doctorget/doctorget.github.io.git --name=doctorget --email=samuelsoares177778@gmail.com  --branch=master --dir=docs/"
+    "upload": "npx ngh --repo=git@github.com:samuelsoaress/samuelsoaress.github.io.git --name=samuelsoaress --email=samuelsoares177778@gmail.com  --branch=master --dir=docs/"
+  },
+  "engines": {
+    "node": "^6 || ^7 || ^8 || ^9 || ^10 || ^11 || ^12 || >=13.7"
+  },
+  "bin": {
+    "browserslist": "cli.js"
   },
   "private": true,
   "dependencies": {
@@ -22,11 +28,12 @@
     "@angular/platform-browser-dynamic": "~9.1.0",
     "@angular/router": "~9.1.0",
     "bootstrap": "^4.4.1",
+    "mini-css-extract-plugin": "^1.4.1",
     "ngx-spinner": "^9.0.2",
-    "ngx-swiper-wrapper": "^9.0.1",
+    "ngx-swiper-wrapper": "^10.0.0",
     "ngx-typed-js": "^2.0.0",
     "rxjs": "~6.5.4",
-    "swiper": "^5.4.1",
+    "swiper": "^6.5.6",
     "tslib": "^1.10.0",
     "zone.js": "~0.10.2"
   },
